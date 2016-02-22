@@ -26,6 +26,8 @@ Temporary Items
 tmp
 
 #Files from grunt
-*.sass_cache
+*.sass-cache
 node_modules
+gcs.sublime-project
+gcs.sublime-workspace
 
