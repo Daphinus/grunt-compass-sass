@@ -18,7 +18,7 @@ grunt.initConfig({
 		}//dev
 	},//compass
 	watch:{
-		options: { livereload: true },
+		options: { livereload: 12345 },
 		scripts: {
 			files: ['components/js/*.js'],
 			tasks: ['uglify']
