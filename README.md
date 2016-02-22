@@ -1,8 +1,8 @@
-# ep : what is used in this project:
+# grunt-compass-sass : what is used in this project:
 -this project is on daphinus in github
 
 task runners: 
--node, Npm, grunt, compass, livereload, git
+-node, git, Npm, grunt, compass, livereload, sass,
 
 
 -html 5 boiler plate
